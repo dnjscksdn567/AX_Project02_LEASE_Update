@@ -1,1 +1,20 @@
-
+{
+  "program_id": "AX_PROJECT02_LEASE",
+  "edition": "TURKEY",
+  "version": "0.15.0",
+  "minimum_version": "0.14.1",
+  "download_url": "https://github.com/dnjscksdn567/AX_Project02_LEASE_Update/releases/download/v0.15.0/AX_Project02_LEASE_v0.15.0_TURKEY.zip",
+  "sha256": "352b6b678e7d01a5e8238f8a7c617d02cd3eed38fffc1421e8dd2664d5707e68",
+  "file_size": 14509411,
+  "mandatory": false,
+  "published_at": "2026-07-22",
+  "schema_version": 1,
+  "launcher_version": "1.0.0",
+  "release_notes": [
+    "데스크톱 자동업데이트 런처 추가",
+    "프로그램 코드와 사용자 데이터 폴더 분리",
+    "SHA-256 검증·자동 백업·실패 시 롤백 추가",
+    "프로그램 내부 버전 표시 및 수동 업데이트 확인 기능 추가",
+    "v0.14.1의 기존 회계 계산 및 전표 로직 유지"
+  ]
+}
