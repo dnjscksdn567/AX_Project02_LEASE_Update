@@ -1,18 +1,18 @@
 {
   "program_id": "AX_PROJECT02_LEASE",
   "edition": "TURKEY",
-  "version": "0.15.1",
+  "version": "0.15.2",
   "minimum_version": "0.15.0",
-  "download_url": "https://github.com/dnjscksdn567/AX_Project02_LEASE_Update/releases/download/v0.15.1/AX_Project02_LEASE_v0.15.1_TURKEY.zip",
-  "sha256": "b085c9ffaec4ec0b31cacd1217de3a04d282156ecef991a183cdb1839df7f416",
-  "file_size": 14512059,
+  "download_url": "https://github.com/dnjscksdn567/AX_Project02_LEASE_Update/releases/download/v0.15.2/AX_Project02_LEASE_v0.15.2_TURKEY.zip",
+  "sha256": "bc23256f466861db8491741facda9d9fe2560e99d72d45369af93989c99df4aa",
+  "file_size": 14519760,
   "mandatory": false,
-  "published_at": "2026-07-22",
+  "published_at": "2026-07-23",
   "schema_version": 1,
   "launcher_version": "1.0.0",
   "release_notes": [
-    "통합 결산전표 생성 전 당월 계약 변경사항 확인 절차 추가",
-    "계약기간 종료 후 미처리 계약의 전표 생성 차단 및 안내 추가",
-    "기존 회계 계산 및 전표 산출 로직 유지"
+    "고정 기초스케줄 회계 오류 검증 로직 추가",
+    "리스스케줄 12개 열 정렬 및 통화 표시 오류 수정",
+    "앙카라 감가상각과 이스탄불 명칭·최종 리스부채 오류 수정"
   ]
 }
