@@ -1,18 +1,20 @@
 {
   "program_id": "AX_PROJECT02_LEASE",
   "edition": "TURKEY",
-  "version": "0.15.2",
+  "version": "0.15.3",
   "minimum_version": "0.15.0",
-  "download_url": "https://github.com/dnjscksdn567/AX_Project02_LEASE_Update/releases/download/v0.15.2/AX_Project02_LEASE_v0.15.2_TURKEY.zip",
-  "sha256": "bc23256f466861db8491741facda9d9fe2560e99d72d45369af93989c99df4aa",
-  "file_size": 14519760,
+  "download_url": "https://github.com/dnjscksdn567/AX_Project02_LEASE_Update/releases/download/v0.15.3/AX_Project02_LEASE_v0.15.3_TURKEY.zip",
+  "sha256": "99d32c631ceae9a4649c742e865e0c7dde430d3a08582ef3cc836a46435a2214",
+  "file_size": 14520600,
   "mandatory": false,
   "published_at": "2026-07-23",
-  "schema_version": 1,
+  "schema_version": 2,
   "launcher_version": "1.0.0",
   "release_notes": [
-    "고정 기초스케줄 회계 오류 검증 로직 추가",
-    "리스스케줄 12개 열 정렬 및 통화 표시 오류 수정",
-    "앙카라 감가상각과 이스탄불 명칭·최종 리스부채 오류 수정"
+    "v0.15.1·v0.15.2 사용자 DB의 튀르키예 고정스케줄 자동 교정",
+    "앙카라 월 감가상각비 64,716.45 및 최종 사용권자산 0.00 반영",
+    "이스탄불 계약명 및 최종 리스부채 0.00 교정",
+    "리스스케줄 고정데이터 검증과 12개 열 표시 안정화"
   ]
 }
+
