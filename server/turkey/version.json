@@ -1,20 +1,19 @@
 {
   "program_id": "AX_PROJECT02_LEASE",
   "edition": "TURKEY",
-  "version": "0.15.3",
+  "version": "0.15.4",
   "minimum_version": "0.15.0",
-  "download_url": "https://github.com/dnjscksdn567/AX_Project02_LEASE_Update/releases/download/v0.15.3/AX_Project02_LEASE_v0.15.3_TURKEY.zip",
-  "sha256": "99d32c631ceae9a4649c742e865e0c7dde430d3a08582ef3cc836a46435a2214",
-  "file_size": 14520600,
+  "download_url": "https://github.com/dnjscksdn567/AX_Project02_LEASE_Update/releases/download/v0.15.4/AX_Project02_LEASE_v0.15.4_TURKEY.zip",
+  "sha256": "f8efcc60d1caeba797566b29d3931080e4de9f1b05d2c789aa7deba514250901",
+  "file_size": 14752268,
   "mandatory": false,
-  "published_at": "2026-07-23",
+  "published_at": "2026-09-09",
   "schema_version": 2,
   "launcher_version": "1.0.0",
   "release_notes": [
-    "v0.15.1·v0.15.2 사용자 DB의 튀르키예 고정스케줄 자동 교정",
-    "앙카라 월 감가상각비 64,716.45 및 최종 사용권자산 0.00 반영",
-    "이스탄불 계약명 및 최종 리스부채 0.00 교정",
-    "리스스케줄 고정데이터 검증과 12개 열 표시 안정화"
+    "입력·계산 오류 발생 시 사용자가 이해하기 쉬운 한국어 안내 제공",
+    "계약 갱신 실패 시 중복 '(갱신)' 계약이 남지 않도록 저장 처리 개선",
+    "등록된 계약 목록에서 계약 종료 자산을 진행 중 계약 아래로 정렬",
+    "기존 사용자 데이터베이스를 유지하는 안전한 프로그램 업데이트"
   ]
 }
-
