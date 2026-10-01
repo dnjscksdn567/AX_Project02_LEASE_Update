@@ -1,19 +1,19 @@
 {
   "program_id": "AX_PROJECT02_LEASE",
   "edition": "TURKEY",
-  "version": "0.15.4",
+  "version": "0.15.5",
   "minimum_version": "0.15.0",
-  "download_url": "https://github.com/dnjscksdn567/AX_Project02_LEASE_Update/releases/download/v0.15.4/AX_Project02_LEASE_v0.15.4_TURKEY.zip",
-  "sha256": "f8efcc60d1caeba797566b29d3931080e4de9f1b05d2c789aa7deba514250901",
-  "file_size": 14752268,
+  "download_url": "https://github.com/dnjscksdn567/AX_Project02_LEASE_Update/releases/download/v0.15.5/AX_Project02_LEASE_v0.15.5_TURKEY.zip",
+  "sha256": "c507a851c023cf6849b7c96fec89a10a45bc26bb6f676fa510a91dca72744dea",
+  "file_size": 14755357,
   "mandatory": false,
-  "published_at": "2026-09-09",
+  "published_at": "2026-10-01",
   "schema_version": 2,
   "launcher_version": "1.0.0",
   "release_notes": [
-    "입력·계산 오류 발생 시 사용자가 이해하기 쉬운 한국어 안내 제공",
-    "계약 갱신 실패 시 중복 '(갱신)' 계약이 남지 않도록 저장 처리 개선",
-    "등록된 계약 목록에서 계약 종료 자산을 진행 중 계약 아래로 정렬",
+    "결산전표 Excel에 당월 신규등록·계약종료·갱신종료·갱신등록 전표 시트 추가",
+    "계약갱신 전표와 새 계약 등록전표의 갱신등록 중복 출력 방지",
+    "기존 결산전표 시트의 월별 전표 구조와 금액 유지",
     "기존 사용자 데이터베이스를 유지하는 안전한 프로그램 업데이트"
   ]
 }
