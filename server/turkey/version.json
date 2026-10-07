@@ -1,19 +1,20 @@
 {
   "program_id": "AX_PROJECT02_LEASE",
   "edition": "TURKEY",
-  "version": "0.15.5",
+  "version": "0.15.6",
   "minimum_version": "0.15.0",
-  "download_url": "https://github.com/dnjscksdn567/AX_Project02_LEASE_Update/releases/download/v0.15.5/AX_Project02_LEASE_v0.15.5_TURKEY.zip",
-  "sha256": "c507a851c023cf6849b7c96fec89a10a45bc26bb6f676fa510a91dca72744dea",
-  "file_size": 14755357,
+  "download_url": "https://github.com/dnjscksdn567/AX_Project02_LEASE_Update/releases/download/v0.15.6/AX_Project02_LEASE_v0.15.6_TURKEY.zip",
+  "sha256": "e8392dbcccd5f559f5aa5102356c1d819570a58a748205e7cfe9181500d49f73",
+  "file_size": 14774244,
   "mandatory": false,
-  "published_at": "2026-10-01",
-  "schema_version": 2,
+  "published_at": "2026-10-07",
+  "schema_version": 3,
   "launcher_version": "1.0.0",
   "release_notes": [
-    "결산전표 Excel에 당월 신규등록·계약종료·갱신종료·갱신등록 전표 시트 추가",
-    "계약갱신 전표와 새 계약 등록전표의 갱신등록 중복 출력 방지",
-    "기존 결산전표 시트의 월별 전표 구조와 금액 유지",
-    "기존 사용자 데이터베이스를 유지하는 안전한 프로그램 업데이트"
+    "기존 계약을 유지하면서 변경월 이후 임차료를 재측정하는 계약변경 기능 추가",
+    "변경월 이전 리스스케줄과 결산 금액을 그대로 보존하고 이후 스케줄만 재계산",
+    "리스부채·사용권자산 재측정 조정전표 및 계약변경 이력 저장",
+    "계약변경 취소 시 직전 스케줄과 계약조건을 안전하게 복구",
+    "기존 사용자 데이터베이스를 유지하는 스키마 3 마이그레이션"
   ]
 }
