@@ -1,20 +1,20 @@
 {
   "program_id": "AX_PROJECT02_LEASE",
   "edition": "TURKEY",
-  "version": "0.15.7",
+  "version": "0.15.8",
   "minimum_version": "0.15.0",
-  "download_url": "https://github.com/dnjscksdn567/AX_Project02_LEASE_Update/releases/download/v0.15.7/AX_Project02_LEASE_v0.15.7_TURKEY.zip",
-  "sha256": "5aa657f3f98e28a159b778844e64aa755f6c967668891dee0fb90f06c9c50d78",
-  "file_size": 14772471,
+  "download_url": "https://github.com/dnjscksdn567/AX_Project02_LEASE_Update/releases/download/v0.15.8/AX_Project02_LEASE_v0.15.8_TURKEY.zip",
+  "sha256": "372e3a28eed57af42fb252e7e40ca181ea52be9f354f981643678707995b9712",
+  "file_size": 14786313,
   "mandatory": false,
   "published_at": "2026-10-07",
   "schema_version": 3,
   "launcher_version": "1.0.0",
   "release_notes": [
-    "계약변경을 전체 스케줄 재산정 및 누적차이 조정 방식으로 변경",
-    "기존 할인율과 변경월 이전 실제 임차료를 유지",
-    "사용권자산 원가·누적 이자·누적 감가상각·리스부채 차이를 변경월 전표로 생성",
-    "판관·제조 비용 및 유동·비유동 리스부채 조정액을 계정별로 분리",
-    "기존 사용자 데이터베이스와 계약변경 취소 기능 유지"
+    "설정 화면에 전체 데이터 내보내기·가져오기 기능 추가",
+    "계약·전표 이벤트·계약변경 이력·계정 설정·검증자료를 .axlease 파일로 이관",
+    "가져오기 전 현재 데이터베이스 자동 백업 및 실패 시 원상복구",
+    "프로그램·에디션·스키마·SHA-256·SQLite 무결성 검사",
+    "기존 사용자 데이터베이스와 v0.15.7 재측정 기능 유지"
   ]
 }
